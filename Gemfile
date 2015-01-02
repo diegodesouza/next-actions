@@ -46,5 +46,9 @@ end
 group :test, :development do
   gem 'rspec-rails'
   gem 'factory_girl_rails'
+<<<<<<< HEAD
+=======
+  gem 'valid_attribute'
+>>>>>>> users-model-test
   gem 'shoulda'
 end
